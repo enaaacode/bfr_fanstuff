@@ -9,7 +9,7 @@ Ich stelle die Designs als svg-Datei zum Herunterladen bereit. Lade dir das
 gewünschte Design einfach herunter. svg-Dateien sind super flexibel. Du
 kannst in jeder beliebigen Größe drucken: Entweder ganz klein direkt über
 dem Herzen, oder ganz groß über den gesamten Rücken. Außerdem ist die Farbe
-freiwählbar. Helles Motiv auf dunkles Shirt oder dunkles Motiv auf helles
+frei wählbar. Helles Motiv auf dunkles Shirt oder dunkles Motiv auf helles
 Shirt – alles möglich.
 
 ## Shirts
