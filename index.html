@@ -1,0 +1,80 @@
+---
+layout: startseite
+title: Startseite
+---
+
+<h1 class="visually-hidden">
+  Inoffizielles "Die Ärzte" Fan Stuff – Designs zum Herunterladen
+</h1>
+
+<section id="song-des-tages" class="song-des-tages--container">
+  <div class="song-des-tages--songzeile-chip">
+    <h2 class="chip-style">Songzeile des Tages</h2>
+  </div>
+  <div class="song-des-tages--aktuelle-songzeile">
+    {% assign songs = site.data.songs %} {% assign today = site.time | date:
+    "%j" %} {% assign index = today | modulo: songs.size %}
+
+    <p>{{ songs[index].text }}</p>
+  </div>
+  <a
+    href="{{ songs[index].url }}"
+    target="_blank"
+    rel="noopener"
+    class="song-des-tages--song"
+  >
+    {{ songs[index].title }}&nbsp;&rarr;
+  </a>
+</section>
+
+<section id="designs">
+  <div class="heading">
+    <h2>Designs zum Herunterladen</h2>
+    <p>
+      Aus Mangel an Fan-Shirts für Frauen habe ich angefangen, eigene Designs zu
+      entwerfen. Für alle, die sich nicht im offiziellen Shop wiederfinden. Zum
+      Teilen, nicht zum Verkaufen. Eine Anleitung für den Druck findet ihr hier.
+    </p>
+  </div>
+
+  <div class="designs--grid-container">
+    {% for design in site.data.designs %}
+    <div class="designs--grid-container--element">
+      <div class="designs--grid-container--element--bild">
+        <img src="{{ design.design }}" alt="" />
+      </div>
+      <div class="designs--grid-container--element--text">
+        <p>{{design.beschreibung}}</p>
+
+        <a class="download--container" href="{{design.design}}" download>
+          <svg
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-label="Download"
+          >
+            <path
+              d="M12 3v12m0 0l-5-5m5 5l5-5"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+            <rect
+              x="4"
+              y="19"
+              width="16"
+              height="2"
+              rx="1"
+              fill="currentColor"
+            />
+          </svg>
+          Herunterladen</a
+        >
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
