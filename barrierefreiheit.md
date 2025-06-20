@@ -20,4 +20,4 @@ Diese Website ist weitgehend barrierefrei. Viele Anforderungen der BITV 2.0 und 
 
 Ich überprüfe die Website regelmäßig auf mögliche Barrieren und arbeite kontinuierlich daran, bestehende Hürden abzubauen.
 
-Wenn dir Barrieren auffallen oder du Anregungen zur Verbesserung hast, freue ich mich über deine Rückmeldung. Schreib mir gern eine E-Mail an: [hello@studio-feiler.com](mailto:hello@studio-feiler.com)
+Wenn dir Barrieren auffallen oder du Anregungen zur Verbesserung hast, freue ich mich über deine Rückmeldung. Schreib mir gern eine E-Mail an: [fan-stuff@studio-feiler.com](mailto:fan-stuff@studio-feiler.com)

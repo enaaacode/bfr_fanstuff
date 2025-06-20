@@ -13,7 +13,7 @@ Emsdettener Str. 10
 48268 Greven  
 Deutschland
 
-E-Mail: [hello@studio-feiler.com](mailto:hello@studio-feiler.com)
+E-Mail: [fan-stuff@studio-feiler.com](mailto:fan-stuff@studio-feiler.com)
 
 ## Haftung für Links
 
