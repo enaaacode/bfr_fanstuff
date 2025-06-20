@@ -60,7 +60,7 @@ header {
 nav ul {
   display: flex;
   flex-direction: row;
-  gap: 1rem;
+  gap: 2rem;
   list-style: none;
   color: var(--color-headline);
 }
