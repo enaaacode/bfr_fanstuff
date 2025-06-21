@@ -5,7 +5,11 @@ title: Anleitung zum Druck
 
 # Anleitung
 
-Ich stelle die Designs als svg-Datei zum Herunterladen bereit. Lade dir das
+_Ich dachte immer, das es leicht ist. Ich dachte immer das ist doch kein Problem._ – gesagt, getan.
+
+Die Songzeile stammt aus dem Song "Wie es geht". Noch mehr Songs gibt es bei der "Songzeile des Tages" auf der Startseite zu entdecken. Wie der Name vermuten lässt, gibt's jeden Tag eine neue Songzeile.
+
+Zu den Designs: diese stelle ich als svg-Datei zum Herunterladen bereit. Lade dir das
 gewünschte Design einfach herunter. svg-Dateien sind super flexibel. Du
 kannst in jeder beliebigen Größe drucken: Entweder ganz klein direkt über
 dem Herzen, oder ganz groß über den gesamten Rücken. Außerdem ist die Farbe
