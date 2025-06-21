@@ -18,14 +18,16 @@ title: Song des Tages & Designs zum Herunterladen
 
     <p>{{ songs[index].text }}</p>
   </div>
-  <a
-    href="{{ songs[index].url }}"
-    target="_blank"
-    rel="noopener"
-    class="song-des-tages--song"
-  >
-    {{ songs[index].title }}&nbsp;&rarr;
-  </a>
+  <div class="link-wrapper">
+    <a
+      href="{{ songs[index].url }}"
+      target="_blank"
+      rel="noopener"
+      class="song-des-tages--song"
+    >
+      {{ songs[index].title }}&nbsp;&rarr;
+    </a>
+  </div>
 </section>
 
 <section id="designs">
@@ -47,34 +49,35 @@ title: Song des Tages & Designs zum Herunterladen
       </div>
       <div class="designs--grid-container--element--text">
         <p>{{design.beschreibung}}</p>
-
-        <a class="download--container" href="{{design.design}}" download>
-          <svg
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            aria-label="Download"
+        <div class="link-wrapper">
+          <a class="download--container" href="{{design.design}}" download>
+            <svg
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="Download"
+            >
+              <path
+                d="M12 3v12m0 0l-5-5m5 5l5-5"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <rect
+                x="4"
+                y="19"
+                width="16"
+                height="2"
+                rx="1"
+                fill="currentColor"
+              />
+            </svg>
+            Herunterladen</a
           >
-            <path
-              d="M12 3v12m0 0l-5-5m5 5l5-5"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            />
-            <rect
-              x="4"
-              y="19"
-              width="16"
-              height="2"
-              rx="1"
-              fill="currentColor"
-            />
-          </svg>
-          Herunterladen</a
-        >
+        </div>
       </div>
     </div>
     {% endfor %}
@@ -85,11 +88,13 @@ title: Song des Tages & Designs zum Herunterladen
       Du möchtest informiert werden, wenn es neue Designs gibt? <br />Schreib
       mir, dann setze ich dich auf meine Mailingliste.
     </p>
-    <a
-      href="mailto:fan-stuff@studio-feiler.com?subject=Mailingliste&body=Hi Annabelle, bitte setze mich auf die Mailingliste. Dankeschön."
-      aria-label="Annabelle direkt per E-Mail kontaktieren"
-      title="Schreib mir eine E-Mail"
-      >fan-stuff@studio-feiler.com</a
-    >
+    <div class="link-wrapper">
+      <a
+        href="mailto:fan-stuff@studio-feiler.com?subject=Mailingliste&body=Hi Annabelle, bitte setze mich auf die Mailingliste. Dankeschön."
+        aria-label="Annabelle direkt per E-Mail kontaktieren"
+        title="Schreib mir eine E-Mail"
+        >fan-stuff@studio-feiler.com</a
+      >
+    </div>
   </div>
 </section>
