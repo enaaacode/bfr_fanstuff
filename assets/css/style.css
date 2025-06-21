@@ -92,6 +92,14 @@ a:hover {
   text-decoration-thickness: 3px;
 }
 
+a:focus {
+  outline: 2px dashed var(--color-link);
+  padding: 0.25rem;
+  border-radius: 0.25em;
+  text-decoration: none;
+  transition: outline 0.2s;
+}
+
 /* SONG DES TAGES 
 ###################################################################*/
 
