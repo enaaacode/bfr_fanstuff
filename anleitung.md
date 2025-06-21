@@ -38,3 +38,10 @@ normaler Druck.
 Wenn du auf DIY stehst: in vielen Städten gibt es Werkstätten, FabLabs oder
 Makerspaces, in denen man selber Siebdruck machen kann. Probier's aus! Das
 macht Spaß.
+
+## Dein Feedback
+
+Schicke mir gerne ein Foto von deinem fertigen Druck.  
+Ich freue mich darauf die Motive in freier Wildbahn zu sehen.
+
+💜 Fragen, Wünsche oder Anregungen an [fan-stuff@studio-feiler.com](fan-stuff@studio-feiler.com)
