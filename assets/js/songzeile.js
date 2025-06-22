@@ -35,7 +35,7 @@ function placeSongInHtml(song) {
 }
 
 // Lade die Datei 'songs.json' vom Server
-fetch("/assets/js/songs.json")
+fetch("/songs.json")
   // Wenn die Antwort vom Server kommt, wandle sie in ein JavaScript-Objekt um (JSON parsen)
   .then(function (response) {
     return response.json();
