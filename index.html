@@ -13,19 +13,17 @@ title: Song des Tages & Designs zum Herunterladen
     <h2 class="chip-style">Songzeile des Tages</h2>
   </div>
   <div class="song-des-tages--aktuelle-songzeile">
-    {% assign songs = site.data.songs %} {% assign today = site.time | date:
-    "%j" %} {% assign index = today | modulo: songs.size %}
-
-    <p>{{ songs[index].text }}</p>
+    <p id="songzeile-text"></p>
   </div>
   <div class="link-wrapper">
     <a
-      href="{{ songs[index].url }}"
+      id="songzeile-link"
+      href="#"
       target="_blank"
       rel="noopener"
       class="song-des-tages--song"
     >
-      {{ songs[index].title }} – die ärzte&nbsp;&rarr;
+      <span id="songteile-title"></span> – die ärzte&nbsp;&rarr;
     </a>
   </div>
 </section>
