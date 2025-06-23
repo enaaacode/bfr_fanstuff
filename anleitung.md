@@ -15,11 +15,11 @@ Die Songzeile oben stammt aus dem Song „Wie es geht“. Noch mehr Songs gibt e
 ## Designs
 
 Ich stelle die Designs als svg-Datei zum Herunterladen bereit. Lade dir das
-gewünschte Design einfach herunter. Du kannst alles alles mögliche damit bedrucken lassen – svg-Dateien sind super flexibel. Du
+gewünschte Design einfach herunter. Du kannst alles mögliche damit bedrucken lassen – svg-Dateien sind super flexibel. Du
 kannst in jeder beliebigen Größe drucken: Entweder ganz klein direkt über
 dem Herzen, oder ganz groß über den gesamten Rücken. Außerdem ist die Farbe
 frei wählbar. Helles Motiv auf dunkles Shirt oder dunkles Motiv auf helles
-Shirt – alles möglich, der Fantasie sind keine Grenzen gesetzt.
+Shirt – der Fantasie sind keine Grenzen gesetzt.
 
 ## Shirts
 
