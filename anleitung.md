@@ -5,16 +5,21 @@ title: Anleitung zum Druck
 
 # Anleitung
 
-_Ich dachte immer, das es leicht ist. Ich dachte immer das ist doch kein Problem._ – gesagt, getan.
+_Ich dachte immer, das es leicht ist. Ich dachte immer das ist doch kein Problem._  
+– gesagt, getan.
 
-Die Songzeile stammt aus dem Song "Wie es geht". Noch mehr Songs gibt es bei der "Songzeile des Tages" auf der Startseite zu entdecken. Wie der Name vermuten lässt, gibt's jeden Tag eine neue Songzeile.
+## Songzeile des Tages
 
-Zu den Designs: diese stelle ich als svg-Datei zum Herunterladen bereit. Lade dir das
-gewünschte Design einfach herunter. svg-Dateien sind super flexibel. Du
+Die Songzeile oben stammt aus dem Song „Wie es geht“. Noch mehr Songs gibt es bei der „Songzeile des Tages“ auf der Startseite zu entdecken. Wie der Name vermuten lässt, gibt's jeden Tag eine neue Songzeile.
+
+## Designs
+
+Ich stelle die Designs als svg-Datei zum Herunterladen bereit. Lade dir das
+gewünschte Design einfach herunter. Du kannst alles alles mögliche damit bedrucken lassen – svg-Dateien sind super flexibel. Du
 kannst in jeder beliebigen Größe drucken: Entweder ganz klein direkt über
 dem Herzen, oder ganz groß über den gesamten Rücken. Außerdem ist die Farbe
 frei wählbar. Helles Motiv auf dunkles Shirt oder dunkles Motiv auf helles
-Shirt – alles möglich.
+Shirt – alles möglich, der Fantasie sind keine Grenzen gesetzt.
 
 ## Shirts
 
