@@ -44,7 +44,12 @@ title: Song des Tages & Designs zum Herunterladen
     {% for design in site.data.designs %}
     <div class="designs--grid-container--element">
       <div class="designs--grid-container--element--bild">
-        <img src="{{ design.design }}" alt="" />
+        <img
+          src="{{ design.design }}"
+          width="200"
+          height="200"
+          alt="Design: {{design.alt}}"
+        />
       </div>
       <div class="designs--grid-container--element--text">
         <p>{{design.beschreibung}}</p>
