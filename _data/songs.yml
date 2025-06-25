@@ -1,4 +1,6 @@
 # Jazz ist anders, 2007
+# =================================================
+# =================================================
 
 - text: "Du hast kein klares Ziel, aber Millionen Möglichkeiten. Ein gutes Gefühl – und du weißt, es wird gut für dich ausgehn."
   title: "Himmelblau"
@@ -77,6 +79,8 @@
   url: "https://www.bademeister.com/songs/wir-sind-die-besten"
 
 # Bäst of, 2006
+# =================================================
+# =================================================
 
 - text: "Deine Gewalt ist nur ein stummer Schrei nach Liebe. Deine Springerstiefel sehnen sich nach Zärtlichkeit."
   title: "Schrei nach Liebe"
@@ -283,6 +287,8 @@
   url: "https://www.bademeister.com/songs/rettet-die-wale"
 
 # Dunkel, 2021
+# =================================================
+# =================================================
 
 - text: "Ich brauch das Dunkel – Hell ist nicht für mich gemacht."
   title: "Dunkel"
@@ -325,6 +331,8 @@
   url: "https://www.bademeister.com/songs/our-bass-player-hates-this-song"
 
 # Hell, 2020
+# =================================================
+# =================================================
 
 - text: "Du kannst auf jede Bühne gehen, wenn du nur dies eine weißt: immer vorn am Mikro stehen – dann hört man besser, wenn du schreist."
   title: "Plan B"
@@ -411,6 +419,8 @@
   url: "https://www.bademeister.com/songs/miststueck"
 
 # Geräusch, 2003
+# =================================================
+# =================================================
 
 - text: "Und ohne Punk gäb’s auch kein Dosenpfand. Denn Bier in freier Natur, das ist Punkrock pur."
   title: "Als ich den Punk erfand…"
@@ -555,3 +565,35 @@
 - text: "Wenn ich ein Zombie wär, dann bräuchte ich keinen Kombi mehr."
   title: "Pro-Zombie"
   url: "https://www.bademeister.com/songs/pro-zombie"
+
+# 13
+# =================================================
+# =================================================
+
+- text: "Sind wir zu kindisch? Aber hallo! Niveaulos sind wir sowieso."
+  title: "Ein Lied für dich"
+  url: "https://www.bademeister.com/songs/ein-lied-fuer-dich"
+
+- text: "Es fing alles ganz harmlos mit Monopoly an, ich war immer der Reichste, weil ich immerzu gewann."
+  title: "Nie wieder Krieg, nie mehr Las Vegas!"
+  url: "https://www.bademeister.com/songs/nie-wieder-krieg-nie-mehr-las-vegas"
+
+- text: "Und keine Schokolade mehr, das Leben ist nicht fair"
+  title: "Nie wieder Krieg, nie mehr Las Vegas!"
+  url: "https://www.bademeister.com/songs/nie-wieder-krieg-nie-mehr-las-vegas"
+
+- text: "Ja, der Graf lebt von Blutkonserven, Ratten und Getier. Ja, der Graf ist kein Punkrocker, er ist Vampir."
+  title: "Der Graf"
+  url: "https://www.bademeister.com/songs/der-graf"
+
+- text: "Ich muss weg aus dieser Stadt, wWo mir jeder Mensch und jedes Haus im Wege steht."
+  title: "Grau"
+  url: "https://www.bademeister.com/songs/grau"
+
+- text: "Ich hör dir zu mit offnem Mund und tu so, als glaub ich dir jedes Wort."
+  title: "Angeber"
+  url: "https://www.bademeister.com/songs/angeber"
+
+- text: "Liebe geht auch mal vorbei, all die schöne Schwelgerei…"
+  title: "Liebe und Schmerz"
+  url: "https://www.bademeister.com/songs/liebe-und-schmerz"
