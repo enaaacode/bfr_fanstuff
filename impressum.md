@@ -13,7 +13,7 @@ Emsdettener Str. 10
 48268 Greven  
 Deutschland
 
-E-Mail: [fan-stuff@studio-feiler.com](mailto:fan-stuff@studio-feiler.com)
+E-Mail: [annabellefeiler@mailbox.org](mailto:annabellefeiler@mailbox.org)
 
 ## Haftung für Links
 
